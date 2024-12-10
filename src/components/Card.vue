@@ -2,9 +2,9 @@
     <!-- cartas -->
     <section class="container" id="productos">
         <h1 class="text-center">Nuestros Productos</h1>
-        <div class="row">
+        <div class="d-flex flex-md-row flex-column">
             <!-- primera -->
-            <div v-for="producto in productos" :key="producto.id" class="col-sm-4 col-12 px-5 mb-4">
+            <div v-for="producto in productos" :key="producto.id" class="col-md-4 col-12 px-md-4 px-2 mb-md-5 pb-5">
                 <div class="card">
                     <img :src="producto.imagen" class="card-img-top" :alt="producto.nombre" />
                     <div class="card-body">
@@ -34,4 +34,10 @@ export default {
     },
 };
 </script>
-<style></style>
+<style>
+.card {
+    /* width: 18rem; */
+    height: 500px;
+    margin: 0 auto;
+}
+</style>

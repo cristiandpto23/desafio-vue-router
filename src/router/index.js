@@ -38,7 +38,7 @@ const routes = [
                 {
                     id: 3,
                     nombre: 'Desayunos',
-                    descripcion: 'Contamos con desayunos nutritivos y deliciosos',
+                    descripcion: 'Desayunos nutritivos y deliciosos',
                     precio: 2000,
                     cantidad: 'Para dos personas',
                     imagen: desayunos,
