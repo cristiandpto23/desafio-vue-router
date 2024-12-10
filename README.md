@@ -1,5 +1,9 @@
 # Desafío Vue - Router
 
+💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML y JS<br>
+➡ Front-End G17 - Desafío Latam<br>
+🔗 Desplegado en Vercel [aquí]()<br>
+
 En este desafío validaremos nuestros conocimientos de Vue Router, implementando la navegación de una interfaz web utilizando Vue Router para dar solución a un requerimiento.
 
 ## Descripción
@@ -32,4 +36,4 @@ A partir de estas indicaciones generales, deberás tomar en cuenta que el códig
 
 <div align="center"><img src="./src/assets/img/image-1.png"></div>
 
-Nota: las props a enviar pueden ser nombre, descripción, precio y cantidad. 
+Nota: las props a enviar pueden ser nombre, descripción, precio y cantidad.
