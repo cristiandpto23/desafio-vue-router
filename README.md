@@ -2,7 +2,7 @@
 
 💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML y JS<br>
 ➡ Front-End G17 - Desafío Latam<br>
-🔗 Desplegado en Vercel [aquí]()<br>
+🔗 Desplegado en Vercel [aquí](https://desafio-vue-router-sigma.vercel.app/)<br>
 
 En este desafío validaremos nuestros conocimientos de Vue Router, implementando la navegación de una interfaz web utilizando Vue Router para dar solución a un requerimiento.
 
